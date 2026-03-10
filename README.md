@@ -111,15 +111,15 @@ bestchain-aml.com
 ## 📈 Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobakrytoi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-Telegram: **@yourusername**
+Telegram: **@bobakrytoi**
 
 ---
 
-⭐ From [Bobakrytoi](https://github.com/YOURUSERNAME)
+⭐ From [Bobakrytoi](https://github.com/bobakrytoi)
