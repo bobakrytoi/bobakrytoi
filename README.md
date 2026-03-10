@@ -91,9 +91,6 @@ Security analysis including:
 - information exposure
 - vulnerability discovery
 
-Example audit:
-bestchain-aml.com
-
 ---
 
 ## 📊 GitHub Stats
