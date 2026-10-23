@@ -1,110 +1,64 @@
-<h1 align="center">Hi 👋 I'm Bobakrytoi</h1>
-<h3 align="center">Python Developer • Telegram Bots • Automation • Security Research</h3>
+# Bobakrytoi
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Telegram+Bot+Developer;Automation+Engineer;Cybersecurity+Researcher">
-</p>
+**Software Developer · Security Researcher · Systems & Automation**
 
----
-
-## 🚀 About Me
-
-- 💻 Developer focused on **Python & Automation**
-- 🤖 Building **Telegram bots and automation tools**
-- 🌐 Creating **web applications**
-- 🛡 Interested in **cybersecurity and vulnerability research**
+I build software, explore how systems work under the hood, and investigate security weaknesses. My interests range from low-level programming and automation to web development, OSINT, and reverse engineering.
 
 ---
 
-## ⚡ Tech Stack
+### `01` — About
 
-### Languages
+- Software development across multiple languages and platforms
+- Cybersecurity research, vulnerability analysis, and reconnaissance
+- Reverse engineering, source analysis, and low-level internals
+- Automation, scripting, and custom tooling
+- Web applications, backend logic, and API integrations
+- Game development and game-related technical research
+
+I value understanding how things work, building practical tools, and solving problems beyond the surface level.
+
+### `02` — Technical Stack
+
+**Languages**
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,js,ts,html,css" />
 </p>
 
-### Tools
+**Frameworks & Platforms**
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,git,github,linux,vscode" />
 </p>
 
----
+**Areas of Interest**
 
-## 🔥 Projects
+`Cybersecurity` · `OSINT` · `Reverse Engineering` · `Vulnerability Research` · `Automation` · `Networking` · `Web Development` · `Game Development` · `Source Analysis` · `Scripting`
 
-### 👕 Outfit Builder Web App
-Interactive website for creating outfits from clothing items.
+### `03` — Selected Work
 
-Features:
-- clothing slider
-- upload custom clothes
-- outfit preview
+I work on projects spanning several areas of software engineering and security research.
 
-Tech:
-HTML • CSS • JavaScript
+- **Developer Tools** — Custom utilities, scripts, and workflow automation.
+- **Security Research** — Reconnaissance, attack-surface analysis, vulnerability investigation, and security tooling.
+- **Web Applications** — Interactive interfaces, backend integrations, and custom platforms.
+- **Automation Systems** — Bots, APIs, data processing, and task automation.
+- **Game-Related Projects** — Technical research, tooling, and interface development.
 
----
+Explore my repositories for implementations, experiments, and ongoing work.
 
-### 🤖 Telegram Broadcast Bot
+### `04` — Currently Exploring
 
-Bot for **automated message distribution across Telegram groups**
+- Rust and systems programming
+- Low-level internals and reverse engineering
+- Application security and vulnerability research
+- Networking, protocols, and system architecture
 
-Features:
-- multiple accounts
-- group management
-- automated messaging
+### `05` — Connect
 
-Tech:
-Python • Telegram API
-
----
-
-### 💅 Manicure Booking Bot
-
-Telegram bot for **automating appointment booking**
-
-Features:
-- choose time slots
-- database integration
-- schedule tracking
-
-Tech:
-Python • Database • Telegram API
+**GitHub:** [@bobakrytoi](https://github.com/bobakrytoi)  
+**Telegram:** [@bobakrytoi](https://t.me/bobakrytoi)
 
 ---
 
-### 🎯 Pixel Perfect Interfaces
-
-Accurate reproduction of UI designs.
-
-Tech:
-HTML • CSS
-
----
-
-## 🛡 Cybersecurity
-
-Security analysis including:
-
-- reconnaissance
-- open ports detection
-- information exposure
-- vulnerability discovery
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobakrytoi&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Contact
-
-Telegram: **@bobakrytoi**
-
----
-
-⭐ From [Bobakrytoi](https://github.com/bobakrytoi)
+<sub>Build. Analyze. Understand.</sub>
